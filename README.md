@@ -1,8 +1,10 @@
+# 🎵 Spotify Data Analysis Project
 
-# Spotify Data Analysis
 ## Project Overview:
+### Python:
 This project focuses on analyzing Spotify data to uncover music trends, user preferences, and insights into song popularity. By leveraging data analysis techniques, we aim to identify patterns in streaming behavior and the key factors influencing a song’s success.
-
+### SQL:
+This project analyzes a dataset of Spotify songs using SQL. It covers advanced queries, data insights, and usage of functions, joins, and aggregation techniques.
 ## Objectives:
 1.Analyze song popularity based on characteristics like danceability, energy, and tempo.
 
